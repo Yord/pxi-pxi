@@ -32,7 +32,7 @@
   },
   "scripts": {
     "start": "./index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --passWithNoTests"
   },
   "engines": {
     "node": ">=8.3.0"
@@ -41,5 +41,9 @@
   "dependencies": {
     "geojson": "0.5.0",
     "js2xmlparser": "4.0.0"
+  },
+  "devDependencies": {
+    "fast-check": "1.20.1",
+    "jest": "24.9.0"
   }
 }
