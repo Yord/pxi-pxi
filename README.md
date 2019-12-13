@@ -4,9 +4,9 @@
 
 See the [`pf` github repository][pf] for more details!
 
-[![npm version](https://img.shields.io/npm/v/fx.svg?color=orange)](https://www.npmjs.com/package/fx)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg?color=green)][license]
-[![unit tests status](https://github.com/Yord/pfx-pfrc/workflows/unit%20tests/badge.svg?branch=master)][actions]
+[![npm version][npm-shield]][npm-package]
+[![license][license-shield]][license]
+[![unit tests status][unit-tests-shield]][actions]
 
 ## Installation
 
@@ -29,7 +29,11 @@ For a detailed description of the `.pfrc` module, see the [`pf` repository][pf].
 
 `pfx-pfrc` is [MIT licensed][license].
 
+[npm-package]: https://www.npmjs.com/package/@pfx/pfrc
 [license]: https://github.com/Yord/pfx-pfrc/blob/master/LICENSE
 [teaser]: ./teaser.gif
 [pf]: https://github.com/Yord/pf
 [actions]: https://github.com/Yord/pfx-pfrc/actions
+[npm-shield]: https://img.shields.io/npm/v/@pfx/pfrc.svg?color=orange
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?color=green
+[unit-tests-shield]: https://github.com/Yord/pfx-pfrc/workflows/unit%20tests/badge.svg?branch=master
