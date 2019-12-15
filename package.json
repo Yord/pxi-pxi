@@ -1,6 +1,6 @@
 {
   "name": "@pfx/pfrc",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A sample .pfrc module for pf, the fast and extensible command-line data (e.g. JSON) processor and transformer",
   "keywords": [
     "pf",
@@ -36,7 +36,8 @@
   "private": false,
   "dependencies": {
     "geojson": "0.5.0",
-    "js2xmlparser": "4.0.0"
+    "js2xmlparser": "4.0.0",
+    "ramda": "0.26.1"
   },
   "devDependencies": {
     "fast-check": "1.20.1",
