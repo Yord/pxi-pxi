@@ -25,6 +25,10 @@ $ npm install
 
 For a detailed description of the `.pfrc` module, see the [`pf` repository][pf].
 
+## Reporting Issues
+
+Please report issues [at the `pf` repository][issues]!
+
 ## License
 
 `pfx-pfrc` is [MIT licensed][license].
