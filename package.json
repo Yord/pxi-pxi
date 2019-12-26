@@ -6,7 +6,6 @@
     "pf",
     "parser-functions",
     "json",
-    "streaming",
     "lexer",
     "parser",
     "marshaller"
