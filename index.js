@@ -1,17 +1,12 @@
-const csv     = require('./src/csv')
-const xml     = require('./src/xml')
-const geojson = require('./src/geojson')
-
 const R       = require('ramda')
+const L       = require('lodash')
 
 const getTime = json => json.time
 
+const samplePlugin = require('@pfx/sample')
+
 module.exports = {
-  plugins:  [
-    csv,
-    xml,
-    geojson
-  ],
-  context:  Object.assign({}, R, {getTime}),
+  plugins:  [samplePlugin],
+  context:  Object.assign({}, R, {_: L, getTime}),
   defaults: {}
 }
