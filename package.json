@@ -33,7 +33,7 @@
   "engines": {
     "node": ">=8.3.0"
   },
-  "private": false,
+  "private": true,
   "dependencies": {
     "pxi-sample": "0.7.2",
     "lodash": "4.17.15",
