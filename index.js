@@ -1,4 +1,4 @@
-const samplePlugin = require('@pfx/sample')
+const samplePlugin = require('pxi-sample')
 
 const R            = require('ramda')
 const L            = require('lodash')
