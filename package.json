@@ -1,12 +1,16 @@
 {
   "name": "pxi-pxi",
-  "version": "0.6.1",
-  "description": "A sample .pxi module for pxi (pixie), the small, fast and magic command-line data processor",
+  "version": "0.6.2",
+  "description": "A sample .pxi module for pxi (pixie), the small, fast and magical command-line data processor",
   "keywords": [
     "pxi",
     "pixie",
     "json",
     "csv",
+    "ssv",
+    "tsv",
+    "dsv",
+    "data-processing",
     "deserializer",
     "parser",
     "serializer",
@@ -35,7 +39,7 @@
   },
   "private": true,
   "dependencies": {
-    "pxi-sample": "0.7.3",
+    "pxi-sample": "0.7.4",
     "lodash": "4.17.15",
     "ramda": "0.26.1"
   },
