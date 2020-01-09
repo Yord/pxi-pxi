@@ -1,18 +1,20 @@
 {
-  "name": "@pfx/pfrc",
-  "version": "0.5.4",
-  "description": "A sample .pfrc module for pf, the fast and extensible command-line data (e.g. JSON) processor and transformer",
+  "name": "pxi-pxi",
+  "version": "0.6.0",
+  "description": "A sample .pxi module for pxi (pixie), the small, fast and magic command-line data processor",
   "keywords": [
-    "pf",
-    "parser-functions",
+    "pxi",
+    "pixie",
     "json",
-    "lexer",
+    "csv",
+    "deserializer",
     "parser",
+    "serializer",
     "marshaller"
   ],
-  "homepage": "https://github.com/Yord/pfx-pfrc",
+  "homepage": "https://github.com/Yord/pxi-pxi",
   "bugs": {
-    "url": "https://github.com/Yord/pf/issues"
+    "url": "https://github.com/Yord/pxi/issues"
   },
   "license": "MIT",
   "author": "Philipp Wille <philipp.y.wille@gmail.com> (https://github.com/Yord)",
@@ -22,7 +24,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yord/pfx-pfrc.git"
+    "url": "https://github.com/Yord/pxi-pxi.git"
   },
   "scripts": {
     "start": "./index.js",
@@ -33,7 +35,7 @@
   },
   "private": false,
   "dependencies": {
-    "@pfx/sample": "0.6.1",
+    "pxi-sample": "0.7.2",
     "lodash": "4.17.15",
     "ramda": "0.26.1"
   },
