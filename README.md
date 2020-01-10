@@ -1,6 +1,6 @@
 ![pxi-pxi teaser][teaser]
 
-🧚`pxi-pxi` is a sample .pxi module for `pxi` (pixie), the small, fast and magic command-line data processor.
+🧚`pxi-pxi` is a sample .pxi module for `pxi` (pixie), the small, fast and magical command-line data processor.
 
 See the [`pxi` github repository][pxi] for more details!
 
