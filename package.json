@@ -1,7 +1,7 @@
 {
   "name": "pxi-pxi",
-  "version": "0.6.3",
-  "description": "A sample .pxi module for pxi (pixie), the small, fast and magical command-line data processor",
+  "version": "0.6.4",
+  "description": "A sample .pxi module for pxi (pixie), the small, fast, and magical command-line data processor",
   "keywords": [
     "pxi",
     "pixie",
@@ -39,7 +39,7 @@
   },
   "private": true,
   "dependencies": {
-    "pxi-sample": "0.7.5",
+    "pxi-sample": "0.7.6",
     "lodash": "4.17.15",
     "ramda": "0.26.1"
   },
