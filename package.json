@@ -39,7 +39,7 @@
   },
   "private": true,
   "dependencies": {
-    "pxi-sample": "0.7.5",
+    "pxi-sample": "0.7.6",
     "lodash": "4.17.15",
     "ramda": "0.26.1"
   },
