@@ -1,6 +1,6 @@
 {
   "name": "pxi-pxi",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "A sample .pxi module for pxi (pixie), the small, fast, and magical command-line data processor",
   "keywords": [
     "pxi",
